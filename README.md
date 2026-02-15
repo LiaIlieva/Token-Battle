@@ -1,4 +1,4 @@
-# Multiplayer Blockchain Game  
+# TokenBattle
 **FastAPI · Pygame · Solidity · NFTs**
 
 A real-time multiplayer game that combines a traditional game backend with decentralized blockchain-based asset ownership. Players connect over the internet, compete in real time, and own in-game weapons as **NFTs**, ensuring secure, transparent, and verifiable digital ownership.
